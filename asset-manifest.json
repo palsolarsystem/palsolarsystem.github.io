@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c48fa17.css",
-    "main.js": "/static/js/main.5291ed6a.js",
+    "main.js": "/static/js/main.75659dce.js",
     "static/js/453.22d7712c.chunk.js": "/static/js/453.22d7712c.chunk.js",
     "static/media/solarImage1.jpg": "/static/media/solarImage1.f0c734098c935816bfda.jpg",
     "static/media/cardimage6.jpg": "/static/media/cardimage6.bbe5eac2ca241e8568d1.jpg",
@@ -13,6 +13,7 @@
     "static/media/solarcard2.jpg": "/static/media/solarcard2.99ffdf22f6cc46f3f499.jpg",
     "static/media/manpower.jpg": "/static/media/manpower.ff2b4fa6048ae254c9a1.jpg",
     "static/media/client1.png": "/static/media/client1.621662694de8e9fec1bd.png",
+    "static/media/apollo.png": "/static/media/apollo.7f201ef74020cbb361ed.png",
     "static/media/solarcard1.jpg": "/static/media/solarcard1.3e6ea3eec406b2088b27.jpg",
     "static/media/npf.png": "/static/media/npf.1ad4c4ccbc5b0e3e4c85.png",
     "static/media/client2.png": "/static/media/client2.7f3aab7ba99f0b297466.png",
@@ -22,11 +23,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.6c48fa17.css.map": "/static/css/main.6c48fa17.css.map",
-    "main.5291ed6a.js.map": "/static/js/main.5291ed6a.js.map",
+    "main.75659dce.js.map": "/static/js/main.75659dce.js.map",
     "453.22d7712c.chunk.js.map": "/static/js/453.22d7712c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c48fa17.css",
-    "static/js/main.5291ed6a.js"
+    "static/js/main.75659dce.js"
   ]
 }
