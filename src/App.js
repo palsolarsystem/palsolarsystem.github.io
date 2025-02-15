@@ -7,7 +7,7 @@ import ContactUs from '../src/Components/Contactus'
 import Footer from '../src/Components/Footer'
 import ClientSection from '../src/Components/OurClients'
 import './App.css';
-import { Route, Router, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (

@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "../assets/Style/clients.css";
 import Logo1 from "../assets/images/client1.png";
 import Logo2 from "../assets/images/client2.png";
