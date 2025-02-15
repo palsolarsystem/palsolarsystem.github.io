@@ -18,7 +18,7 @@ function service() {
         
         <div className="service-cards">
             <div className="service-card">
-                <img src={Card1} />
+                <img src={Card1} alt="service img"/>
                 <h3>Solar Plant Installation & Commissioning</h3>
                 <p>
                     Our team specializes in the complete installation and commissioning of solar plants. From site assessment to system design, installation, and commissioning, we ensure that your solar power system is efficiently set up for optimal performance.
@@ -26,7 +26,7 @@ function service() {
             </div>
 
             <div className="service-card">
-                <img src={Card2}/>
+                <img src={Card2} alt="service img"/>
                 <h3>Wind Turbine 33 KV & 66 KV Line Work</h3>
                 <p>
                     We handle the installation of 33 KV and 66 KV power transmission lines for wind turbines. This includes planning, execution, and ensuring that the transmission network is capable of handling high loads for optimal energy distribution.
@@ -34,7 +34,7 @@ function service() {
             </div>
 
             <div className="service-card">
-                <img src={Card3} />
+                <img src={Card3} alt="service img" />
                 <h3>Wind Turbine PCC, Steel Binding, Casting & Shuttering</h3>
                 <p>
                     Our experienced crew is skilled in the construction of wind turbine foundations, including the PCC (Plain Cement Concrete) work, steel binding, casting, and shuttering for tower erection. We ensure that the structure is sturdy and safe for operation.
@@ -42,7 +42,7 @@ function service() {
             </div>
 
             <div className="service-card">
-            <img src={Card4} />
+            <img src={Card4} alt="service img"/>
                 <h3>Solar Plant Operation & Maintenance</h3>
                 <p>
                     We provide comprehensive operation and maintenance services for solar plants. Our team conducts regular inspections, cleaning, and repair services to ensure that your solar plant remains in peak condition and continues to generate clean energy efficiently.
@@ -50,7 +50,7 @@ function service() {
             </div>
 
             <div className="service-card">
-            <img src={Card5} />
+            <img src={Card5} alt="service img"/>
                 <h3>Solar Module Cleaning</h3>
                 <p>
                     We offer professional solar module cleaning services to ensure maximum energy generation. Regular cleaning prevents dust, dirt, and debris from obstructing the panels, thereby improving their efficiency and longevity.
@@ -58,7 +58,7 @@ function service() {
             </div>
 
             <div className="service-card">
-            <img src={Card6} />
+            <img src={Card6} alt="service img" />
                 <h3>Manpower Supply</h3>
                 <p>
                     We provide skilled manpower for various projects related to solar and wind energy. Whether you need technicians for installation, maintenance, or operations, we ensure that you have qualified professionals to get the job done right.
@@ -66,7 +66,7 @@ function service() {
             </div>
 
             <div className="service-card">
-            <img src={Card7}/>
+            <img src={Card7} alt="service img"/>
                 <h3>Inverter Servicing & Repairing</h3>
                 <p>
                     Our team is highly experienced in servicing and repairing all kinds of solar inverters. Whether it's a routine service or a major repair, we ensure that your inverters operate at their best to maximize energy conversion and minimize downtime.
