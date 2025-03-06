@@ -7,6 +7,7 @@ import Logo4 from "../assets/images/rama.png";
 import Logo5 from "../assets/images/npf.png";
 import Logo6 from "../assets/images/apollo.png";
 import Logo7 from "../assets/images/onix_renewable-removebg-preview.png";
+import Logo8 from "../assets/images/logo - Copy.png"
 
 const ClientSection = () => {
   const clients = [
@@ -17,6 +18,8 @@ const ClientSection = () => {
     { id: 5, logo: Logo5, name: "Company 5" },
     { id: 6, logo: Logo6, name: "Company 6" },
     { id: 7, logo: Logo7, name: "Company 7" },
+    { id: 8, logo: Logo8, name: "Company 8" },
+
   ];
 
   return (
