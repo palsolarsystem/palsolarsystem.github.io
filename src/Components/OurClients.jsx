@@ -8,6 +8,7 @@ import Logo5 from "../assets/images/npf.png";
 import Logo6 from "../assets/images/apollo.png";
 import Logo7 from "../assets/images/onix_renewable-removebg-preview.png";
 import Logo8 from "../assets/images/logo - Copy.png"
+import logo9 from "../assets/images/solarium.png"
 
 const ClientSection = () => {
   const clients = [
@@ -22,7 +23,12 @@ const ClientSection = () => {
 
   ];
 
+  const Partner = [
+    { id: 1, logo: logo9, name: "Company 1" },
+  ];
+
   return (
+    <>
     <section className="clients-section">
       <h2 className="clients-title">Our Trusted Clients</h2>
       <p className="clients-subtitle">
@@ -39,6 +45,23 @@ const ClientSection = () => {
         </div>
       </div>
     </section>
+        <section className="clients-section">
+        <h2 className="clients-title">Our Channel Parteners</h2>
+        {/* <p className="clients-subtitle">
+          Partnering with industry leaders in renewable energy
+        </p> */}
+  
+        <div className="logos-container">
+          <div className="logos-scroll">
+            {Partner.map((client) => (
+              <div className="logo-item" key={client.id}>
+                <img src={client.logo} alt={client.name} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+      </>
   );
 };
 

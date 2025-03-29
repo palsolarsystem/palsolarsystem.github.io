@@ -6,7 +6,7 @@ import { Sun, Wind, Users, Award } from 'lucide-react';
 const AboutUs = () => {
   const stats = [
     { icon: <Sun size={32} />, value: "10+", label: "Solar Installations" },
-    { icon: <Wind size={32} />, value: "200+", label: "Wind Projects (Turbine)" },
+    { icon: <Wind size={32} />, value: "100+", label: "Wind Projects (Turbine)" },
     { icon: <Users size={32} />, value: "20+", label: "Satisfied Clients" },
     { icon: <Award size={32} />, value: "1+", label: "Years Experience" },
   ];
